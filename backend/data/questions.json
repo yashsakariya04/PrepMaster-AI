@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "question": "What is the time complexity of binary search?",
+    "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+    "correct": 1,
+    "explanation": "Binary search divides the search space in half with each iteration, resulting in O(log n) time complexity."
+  },
+  {
+    "id": 2,
+    "question": "Which React hook is used for side effects?",
+    "options": ["useState", "useEffect", "useContext", "useReducer"],
+    "correct": 1,
+    "explanation": "useEffect is the hook designed for handling side effects like API calls, subscriptions, and DOM manipulation."
+  },
+  {
+    "id": 3,
+    "question": "What does REST stand for?",
+    "options": [
+      "Representational State Transfer",
+      "Remote Execution and State Transfer",
+      "Resource Exchange and State Transfer",
+      "Representational Server Transfer"
+    ],
+    "correct": 0,
+    "explanation": "REST stands for Representational State Transfer, an architectural style for designing networked applications."
+  },
+  {
+    "id": 4,
+    "question": "Which data structure follows LIFO principle?",
+    "options": ["Queue", "Stack", "Array", "Linked List"],
+    "correct": 1,
+    "explanation": "Stack follows Last In First Out (LIFO) principle, where the last element added is the first one to be removed."
+  },
+  {
+    "id": 5,
+    "question": "What is the purpose of virtual DOM in React?",
+    "options": [
+      "To improve security",
+      "To optimize rendering performance",
+      "To enable server-side rendering",
+      "To manage state"
+    ],
+    "correct": 1,
+    "explanation": "Virtual DOM allows React to efficiently update the UI by comparing the virtual representation with the actual DOM and making minimal changes."
+  }
+]
+
+

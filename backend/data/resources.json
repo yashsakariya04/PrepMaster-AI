@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "title": "JavaScript Basics",
+    "category": "Technical",
+    "description": "Refresh syntax, data types, and control flow fundamentals."
+  },
+  {
+    "id": 2,
+    "title": "STAR Method Guide",
+    "category": "Behavioral",
+    "description": "Structure answers with Situation, Task, Action, Result."
+  },
+  {
+    "id": 3,
+    "title": "System Design Primer",
+    "category": "Technical",
+    "description": "Understand scalability, trade-offs, and design patterns."
+  },
+  {
+    "id": 4,
+    "title": "Conflict Resolution Tips",
+    "category": "HR",
+    "description": "Practical strategies for navigating tough conversations."
+  },
+  {
+    "id": 5,
+    "title": "Leadership Stories",
+    "category": "Behavioral",
+    "description": "Curated prompts to highlight initiative and ownership."
+  },
+  {
+    "id": 6,
+    "title": "React Interview Cheatsheet",
+    "category": "Technical",
+    "description": "Key hooks, lifecycle patterns, and optimization tactics."
+  },
+  {
+    "id": 7,
+    "title": "Negotiation Basics",
+    "category": "HR",
+    "description": "Frameworks for discussing offers with confidence."
+  },
+  {
+    "id": 8,
+    "title": "Time Management Playbook",
+    "category": "General",
+    "description": "Plan deep work, manage energy, and avoid burnout."
+  },
+  {
+    "id": 9,
+    "title": "Behavioral Buzzwords",
+    "category": "Behavioral",
+    "description": "Highlight impact with concise, action-oriented language."
+  },
+  {
+    "id": 10,
+    "title": "Technical Whiteboard Tips",
+    "category": "Technical",
+    "description": "Communicate clearly while solving algorithmic problems."
+  },
+  {
+    "id": 11,
+    "title": "Remote Interview Checklist",
+    "category": "General",
+    "description": "Environment setup, testing gear, and backup plans."
+  },
+  {
+    "id": 12,
+    "title": "Culture Fit Questions",
+    "category": "HR",
+    "description": "Prepare thoughtful questions about teams and values."
+  },
+  {
+    "id": 13,
+    "title": "Confidence Boosters",
+    "category": "General",
+    "description": "Micro-habits to stay calm and focused under pressure."
+  },
+  {
+    "id": 14,
+    "title": "Resume Story Builder",
+    "category": "General",
+    "description": "Turn bullet points into compelling accomplishments."
+  },
+  {
+    "id": 15,
+    "title": "Async JavaScript Deep Dive",
+    "category": "Technical",
+    "description": "Promises, async/await, and handling concurrent flows."
+  }
+]
+
+

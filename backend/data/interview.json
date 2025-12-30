@@ -1,0 +1,25 @@
+{
+  "Technical": [
+    "Explain the difference between var, let, and const.",
+    "What is event delegation in JavaScript?",
+    "How does prototypal inheritance work in JavaScript?",
+    "Describe the virtual DOM and how React uses it.",
+    "What are closures and when would you use them?"
+  ],
+  "HR": [
+    "Tell me about yourself.",
+    "What are your strengths and weaknesses?",
+    "Why do you want to work for this company?",
+    "Describe a time you overcame a challenge.",
+    "Where do you see yourself in five years?"
+  ],
+  "Behavioral": [
+    "Describe a challenging project you worked on.",
+    "How do you handle conflicts in a team?",
+    "Give an example of when you showed leadership.",
+    "Tell me about a time you failed and what you learned.",
+    "How do you prioritize tasks under pressure?"
+  ]
+}
+
+
